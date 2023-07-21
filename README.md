@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**marisol-lemus/marisol-lemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a biomedical student from Tec de Monterrey, who loves coding. Currently I'm working on deep learning for medical image segmentation and analysis. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More stuff about me. 
+
+My skills :muscle:
+* Python (MIcrosoft certified)
+* JavaScript (LinkedIn Assessments Certfied)
+* C++
+* Microsoft Office - certified in Excel and Word Expert
+
+Languages :speech_balloon:
+* English C1 (TOEFLT certified)
+* Chinese C1 (HSK5 certified)
+* Spanish (native language)
+
+  What I'm currently learning
+  * AI in healthcare :woman_health_worker:
+  * Deep learning and Machine learning :computer:
